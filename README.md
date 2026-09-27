@@ -52,19 +52,9 @@ plasma-direct-energy-suite/
 ├── README.md                           <-- Master Documentation & Scientific Dossier
 │
 ├── docs/
-│   ├── Case_1_Plasma_Disruption_LM_PCN.pdf
-│   ├── Case_2_GAA_CNTFET_EMP_Breakdown.pdf
-│   ├── Case_3_Cryo_Phonon_Heat_Drain.pdf
-│   ├── Case_4_Hermetic_Magnetic_Drive.pdf
-│   ├── Case_5_FGGM_Gyroid_Thermal_Fatigue.pdf
 │   └── Inductive_Magnetic_Braking_Direct_Energy_Conversion.pdf
 │
 ├── simulations/
-│   ├── case1_plasma_disruption_engine.py
-│   ├── case2_emp_dielectric_verification.py
-│   ├── case3_cryo_3d_microfin_drain.py
-│   ├── case4_magnetic_hermetic_seal.py
-│   ├── case5_gyroid_tpms_fatigue.py
 │   └── inductive_magnetic_braking_optimization.py
 │
 └── figures/
