@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "Plasma Direct Energy Suite"
+version: "1.0.0"
+date-released: 2026-09-27
+url: "https://github.com/Abhishek1033ubuntu/Plasma Direct Energy Suite"
+license: MIT
