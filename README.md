@@ -1,5 +1,12 @@
 # Plasma Direct Energy Suite (`plasma-direct-energy-suite`)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
+[![AI Collaborator](https://img.shields.io/badge/AI%20Collaborator-Gemini%20Flash-8E44AD.svg)](https://gemini.google.com) 
+[![Version](https://img.shields.io/badge/Version-v1.0.0-success.svg)](https://github.com/Abhishek1033ubuntu/plasma-direct-energy-suite/releases/tag/v1.0.0) 
+[![Domain](https://img.shields.io/badge/Domain-Plasma%20Physics%20%26%20Shock%20Absorption-emerald.svg)](https://github.com/Abhishek1033ubuntu/plasma-direct-energy-suite) 
+[![Status](https://img.shields.io/badge/Simulation-Verified%20(2.08%20TW)-informational.svg)](https://github.com/Abhishek1033ubuntu/plasma-direct-energy-suite) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23001151-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23001151) 
+
 **Primary Investigator / Author:** Abhishek Singh  | UIDAI: 9414 9122 9013  
 **First Public Release & Priority Timestamp:** September 2026  
 **License:** MIT License + Custom Author Prior Art Notice  
