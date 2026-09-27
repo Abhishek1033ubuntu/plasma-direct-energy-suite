@@ -1,6 +1,6 @@
 # Plasma Direct Energy Suite (`plasma-direct-energy-suite`)
 
-**Primary Investigator / Author:** Abhishek Singh  | UIDAI: 9414 9122 9013 
+**Primary Investigator / Author:** Abhishek Singh  | UIDAI: 9414 9122 9013  
 **First Public Release & Priority Timestamp:** September 2026  
 **License:** MIT License + Custom Author Prior Art Notice  
 **Core Domain:** Tokamak Plasma Disruption Mitigation, Fast-Switched Direct Energy Conversion (DEC), and Active Magnetohydrodynamic (MHD) Velocity Damping  
